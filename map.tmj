@@ -702,7 +702,7 @@
         }, 
         {
          "firstgid":2956,
-         "source":"..\/..\/..\/MegaPixelArt_SpriteSheet_32px.tsx"
+         "source":"MegaPixelArt_SpriteSheet_32px.tsx"
         }],
  "tilewidth":32,
  "type":"map",
