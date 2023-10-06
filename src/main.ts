@@ -18,26 +18,10 @@ WA.onInit().then(() => {
         allowApi: true,
         position: "center"
         });
-
-        /* currentPopup = WA.ui.openPopup("clockPopup", "Test", [{
-            label: "Close",
-            className: "primary",
-            callback: () => closePopup()
-        }]);
-        */
-
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
     }).catch(e => console.error(e));
 
 }).catch(e => console.error(e));
-
-/* function closePopup(){
-    if (currentPopup !== undefined) {
-        currentPopup.close();
-        currentPopup = undefined;
-    }
-}
-*/
 export {};
