@@ -699,6 +699,19 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":14,
+         "firstgid":2956,
+         "image":"tilesets\/MegaPixelArt32x32pxIcons_SpriteSheet.png",
+         "imageheight":1152,
+         "imagewidth":448,
+         "margin":0,
+         "name":"Mega Sprite 2.0",
+         "spacing":0,
+         "tilecount":504,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
