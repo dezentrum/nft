@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
     WA.ui.modal.openModal({
         title: "WorkAdventure website",
-        src: 'https://workadventu.re',
+        src: 'https://drive.google.com/file/d/1J7KA4kS44pVQOb2zY5nJMQdc3C6ZGX_9/view?usp=sharing',
         allow: "fullscreen",
         allowApi: true,
         position: "center"
