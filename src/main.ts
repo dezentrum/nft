@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
     WA.ui.modal.openModal({
         title: "WorkAdventure website",
-        src: 'https://nft-publikation-culture-proof.framer.ai/intro',
+        src: 'https://proofofculture.framer.media/info',
         allow: "fullscreen",
         allowApi: true,
         position: "center"
