@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
     WA.ui.modal.openModal({
         title: "WorkAdventure website",
-        src: 'https://proofofculture.framer.media/info',
+        src: 'https://www.proofofculture.ch/info',
         allow: "fullscreen",
         allowApi: true,
         position: "center"
